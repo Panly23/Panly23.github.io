@@ -12,7 +12,7 @@ title                    : "Lingyun Pan / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Lingyun Pan"
 description              : &description "a postgraduate student in Tsinghua University"
-url                      : https://panlingyun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://panly23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "panlingyun/panlingyun.github.io"
 
