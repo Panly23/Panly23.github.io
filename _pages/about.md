@@ -11,7 +11,7 @@ I'm a postgraduate student from [Department of Mechanical Engineering](https://m
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [XX's Curriculum Vitae](../assets/curriculum_ply.pdf).
 
 [Email](ply23@tsinghua.edu.cn) / [Github](https://github.com/panlingyun) / [Wechat](../images/wechat.jpg) / 
 
