@@ -30,36 +30,15 @@ You can find my CV here:
 
 ## 📬 Get in Touch
 <details>
-  <summary>
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email">
+  <summary style="list-style: none;">
+    <span style="display: inline-block; vertical-align: middle;">
+      <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email">
+    </span>
   </summary>
   <div style="padding: 10px; background: #f8f9fa; border: 1px solid #eee; margin-top: 5px;">
     📧 ply23@tsinghua.edu.cn
   </div>
 </details>
-
-<p>
-  <a href="mailto:ply23@tsinghua.edu.cn">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<button onclick="copyToClipboard()">复制邮箱</button>
-<p id="copyStatus" style="display:none;">已复制!</p>
-
-<script>
-  function copyToClipboard() {
-    var email = "ply23@tsinghua.edu.cn";
-    navigator.clipboard.writeText(email).then(function() {
-      // 显示提示消息
-      var status = document.getElementById('copyStatus');
-      status.style.display = 'block';
-      setTimeout(function() {
-        status.style.display = 'none';
-      }, 2000);
-    });
-  }
-</script>
 
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ply23@tsinghua.edu.cn)](mailto:ply23@tsinghua.edu.cn)
