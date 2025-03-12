@@ -38,15 +38,13 @@ You can find my CV here:
   </div>
 </details>
 
-<details style="display: inline-block;">
-  <summary style="list-style: none; cursor: pointer; display: inline;">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email">
-  </summary>
-  <div style="padding: 10px; background: #f8f9fa; border: 1px solid #eee; margin-top: 5px; display: inline-block;">
-    📧 ply23@tsinghua.edu.cn
-  </div>
-</details>
-
+<p>
+  <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" 
+       alt="Email" style="cursor: pointer;" onclick="document.getElementById('email-box').style.display='block'">
+</p>
+<div id="email-box" style="display: none; padding: 10px; background: #f8f9fa; border: 1px solid #eee; margin-top: 5px;">
+  📧 ply23@tsinghua.edu.cn
+</div>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ply23@tsinghua.edu.cn)](mailto:ply23@tsinghua.edu.cn)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Panly23)
