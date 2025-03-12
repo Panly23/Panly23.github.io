@@ -29,10 +29,35 @@ You can find my CV here:
 [**Lingyun Pan's Curriculum Vitae**](https://panly23.github.io/panlingyun.github.io/assets/PLY_vitae.pdf)
 
 ## 📬 Get in Touch
+<a href="mailto:ply23@tsinghua.edu.cn" title="ply23@tsinghua.edu.cn">
+  <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email Badge"/>
+</a>
+
+<!-- CSS for showing a box with email text on hover -->
+<style>
+  a {
+    position: relative;
+    display: inline-block;
+  }
+
+  a:hover::after {
+    content: "ply23@tsinghua.edu.cn";
+    position: absolute;
+    top: -25px; /* Adjust this value to position the text box */
+    left: 0;
+    background-color: #f0f0f0;
+    padding: 5px;
+    border: 1px solid #ccc;
+    font-size: 12px;
+    border-radius: 5px;
+    white-space: nowrap;
+  }
+</style>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ply23@tsinghua.edu.cn)](mailto:ply23@tsinghua.edu.cn)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/panlingyun)
-[![WeChat Badge](https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=wechat&logoColor=white)](../images/wechat.PNG)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Panly23)
+[![WeChat Badge](https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=wechat&logoColor=white)](https://panly23.github.io/panlingyun.github.io/images/wechat.PNG
+)
 
 ##
 *Thank you for visiting my page! Have a nice day.* ✨
