@@ -37,6 +37,7 @@ You can find my CV here:
     📧 ply23@tsinghua.edu.cn
   </div>
 </details>
+
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ply23@tsinghua.edu.cn "📧 Click to copy: ply23@tsinghua.edu.cn")
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ply23@tsinghua.edu.cn)](mailto:ply23@tsinghua.edu.cn)
