@@ -26,7 +26,7 @@ My research interests include:
 - **Machine Learning**  
 
 You can find my CV here:  
-[**Lingyun Pan's Curriculum Vitae**](../assets/PLY_vitae.pdf)
+[**Lingyun Pan's Curriculum Vitae**](https://panly23.github.io/assets/PLY_vitae.pdf)
 
 ## 📬 Get in Touch
 
