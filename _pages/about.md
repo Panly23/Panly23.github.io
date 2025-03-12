@@ -8,7 +8,7 @@ redirect_from:
 
 # Hi there, I'm **Lingyun Pan (潘凌云)**!
 
-🎓 **Education**
+## 🎓 Education
 
 - **Beijing Jiaotong University**  
   *Bachelor in Mechanical and Electronic Engineering (2019.09 - 2023.06)*
