@@ -39,12 +39,28 @@ You can find my CV here:
 </details>
 
 <p>
-  <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" 
-       alt="Email" style="cursor: pointer;" onclick="document.getElementById('email-box').style.display='block'">
+  <a href="mailto:ply23@tsinghua.edu.cn">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email">
+  </a>
 </p>
-<div id="email-box" style="display: none; padding: 10px; background: #f8f9fa; border: 1px solid #eee; margin-top: 5px;">
-  📧 ply23@tsinghua.edu.cn
-</div>
+
+<button onclick="copyToClipboard()">复制邮箱</button>
+<p id="copyStatus" style="display:none;">已复制!</p>
+
+<script>
+  function copyToClipboard() {
+    var email = "ply23@tsinghua.edu.cn";
+    navigator.clipboard.writeText(email).then(function() {
+      // 显示提示消息
+      var status = document.getElementById('copyStatus');
+      status.style.display = 'block';
+      setTimeout(function() {
+        status.style.display = 'none';
+      }, 2000);
+    });
+  }
+</script>
+
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ply23@tsinghua.edu.cn)](mailto:ply23@tsinghua.edu.cn)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Panly23)
