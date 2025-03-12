@@ -7,9 +7,72 @@ redirect_from:
   - /about.html
 ---
 
+# Lingyun Pan (潘凌云) 🌟
+
+---
+
+## 🎓 Education
+
+### 🏫 **Tsinghua University** | *Master of Engineering*  
+**📍 Mechanical Department** | 🗓️ 2023.09 - 2026.07 (Expected)  
+🔬 **Research Interests**:  
+- 🖼️ Computer Vision  
+- 🎨 Computer Graphics  
+- 🤖 Machine Learning  
+- 📸 Computational Photography  
+🔗 [Department Homepage](https://me.tsinghua.edu.cn/) | 🌐 [Tsinghua University](https://www.tsinghua.edu.cn/)  
+
+### 🏛️ **Beijing Jiaotong University** | *Bachelor of Engineering*  
+**📍 Mechanical and Electronic Engineering** | 🗓️ 2019.09 - 2023.06  
+
+---
+
+## 📄 Profile & Contact
+
+- 📄 **Curriculum Vitae**: [Download CV](../assets/PLY_vitae.pdf)  
+- 📧 **Email**: [ply23@tsinghua.edu.cn](mailto:ply23@tsinghua.edu.cn)  
+- 💻 **GitHub**: [@panlingyun](https://github.com/panlingyun)  
+- 💬 **WeChat**: ![WeChat QR Code](../images/wechat.PNG)  
+
+---
+
+## 🛠️ Technical Skills  
+*(Optional section - add if needed)*  
+<!-- Example:
+- **Programming**: Python (PyTorch, OpenCV), C++  
+- **Tools**: Git, LaTeX, Docker  
+-->
+
+---
+
+## 📌 Highlights  
+✨ *"Engineering the future with vision and intelligence."*  
+🌱 Currently exploring neural rendering and 3D reconstruction.  
+
+---
+
+<details>
+<summary>📈 GitHub Stats (Optional)</summary>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=panlingyun&show_icons=true&theme=radical)
+
+</details>
+
+---
+
+<div align="center">
+  <a href="mailto:ply23@tsinghua.edu.cn">
+    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/panlingyun">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+
 I'm a postgraduate student from [Department of Mechanical Engineering](https://me.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-You can find my CV here: [Lingyun Pan's Curriculum Vitae](../assets/curriculum_ply.pdf).
+You can find my CV here: [Lingyun Pan's Curriculum Vitae](../assets/PLY_vitae.pdf).
 
 [Email](mailto:ply23@tsinghua.edu.cn) / [Github](https://github.com/panlingyun) / [Wechat](../images/wechat.PNG) / 
 
