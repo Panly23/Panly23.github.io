@@ -1,10 +1,9 @@
-<!-- 这是一个注释，不会在最终渲染时显示 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+<!-- 这是一个注释，不会在最终渲染时显示 ---title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"-->
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html-->
+  - /about.html
 
 # Hi there, I'm **Lingyun Pan (潘凌云)**!
 
