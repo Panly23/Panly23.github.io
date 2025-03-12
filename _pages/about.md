@@ -29,9 +29,16 @@ You can find my CV here:
 [**Lingyun Pan's Curriculum Vitae**](https://panly23.github.io/panlingyun.github.io/assets/PLY_vitae.pdf)
 
 ## 📬 Get in Touch
-[![Email](https://img.shields.io/badge/-ply23@tsinghua.edu.cn-c14438?style=flat&logo=gmail&logoColor=white)](mailto:ply23@tsinghua.edu.cn)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Panly23)
-[![WeChat Badge](https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=wechat&logoColor=white)](https://panly23.github.io/panlingyun.github.io/images/wechat.PNG
+<details>
+  <summary style="list-style: none;">
+    <span style="display: inline-block; vertical-align: middle;">
+      <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email">
+    </span>
+  </summary>
+  <div style="padding: 10px; background: #f8f9fa; border: 1px solid #eee; margin-top: 5px;">
+    📧 ply23@tsinghua.edu.cn
+  </div>
+</details>[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Panly23)[![WeChat Badge](https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=wechat&logoColor=white)](https://panly23.github.io/panlingyun.github.io/images/wechat.PNG
 )
 
 ##
