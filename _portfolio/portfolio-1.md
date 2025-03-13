@@ -5,4 +5,6 @@ excerpt: "A two-stage detection method first segments components via YOLOV5, red
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A two-stage detection method first segments components via YOLOV5, reducing manual feature extraction time, then diagnoses faults using classifiers, lowering false alarm and omission rates for rolling bearing oil leakage, bolt loosening, and plate deviation.
+
+<img src="/images/TFDS.png">
