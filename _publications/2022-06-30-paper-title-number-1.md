@@ -1,6 +1,7 @@
 ---
 title: "Experimental study on saturation pool boiling heat transfer characteristics of R245fa on the surface covered by sintered copper powder"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-06-30-paper-title-number-1
 date: 2022-06-30
 venue: 'Case Studies in Thermal Engineering'
