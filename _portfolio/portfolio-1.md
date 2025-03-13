@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "TFDS detect system"
+excerpt: "A two-stage detection method first segments components via YOLOV5, reducing manual feature extraction time, then diagnoses faults using classifiers, lowering false alarm and omission rates for rolling bearing oil leakage, bolt loosening, and plate deviation. A PyQT5-based UI provides clear feedback on detection results.
+<br/><img src='/images/TFDS.png'>"
 collection: portfolio
 ---
 
