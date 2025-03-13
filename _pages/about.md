@@ -46,6 +46,6 @@ You can find my CV here:
   </a>
 </div>
 
-##
+--- 
 *Thank you for visiting my page! Have a nice day.* ✨
 
