@@ -7,4 +7,4 @@ collection: portfolio
 
 A two-stage detection method first segments components via YOLOV5, reducing manual feature extraction time, then diagnoses faults using classifiers, lowering false alarm and omission rates for rolling bearing oil leakage, bolt loosening, and plate deviation.
 
-<img src="/images/TFDS.png">
+<img src="https://panly23.github.io/images/TFDS.png" alt="TFDS Image">
