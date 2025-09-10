@@ -41,7 +41,7 @@ You can find my CV here:
   <a href="https://github.com/Panly23" style="display: inline-block; vertical-align: middle;">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://panly23.github.io/panlingyun.github.io/images/wechat.PNG" style="display: inline-block; vertical-align: middle;">
+  <a href="/images/wechat.PNG" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=wechat&logoColor=white" alt="WeChat">
   </a>
 </div>
