@@ -1,7 +1,6 @@
 ---
 title: "Saturated pool boiling heat transfer enhancement of R245fa based on the surface covered by sintered copper powder with and without nanostructure"
 collection: publications
-category: manuscripts
 permalink: /publication/2023-01-28-paper-title-number-2
 date: 2023-01-28
 venue: 'International Journal of Thermal Sciences'
